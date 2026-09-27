@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#ffffff"/>
+<rect x="35" y="30" width="1130" height="115" rx="22" fill="#eef5ef"/>
+<text x="65" y="78" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#214b2e">VADI #004 — POST-RÉCOLTE</text>
+<text x="65" y="119" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#333">APRÈS LA RÉCOLTE, CHAQUE HEURE COMPTE</text>
+<g font-family="Arial,sans-serif">
+<rect x="35" y="190" width="195" height="170" rx="18" fill="#f8faf8" stroke="#b7c5b8" stroke-width="2"/><text x="55" y="230" font-size="21" font-weight="700" fill="#214b2e">RÉCOLTE</text><text x="55" y="280" font-size="17" fill="#555">Réduire le délai</text><text x="235" y="285" font-size="28" font-weight="700" fill="#52775a">→</text><rect x="260" y="190" width="195" height="170" rx="18" fill="#f8faf8" stroke="#b7c5b8" stroke-width="2"/><text x="280" y="230" font-size="21" font-weight="700" fill="#214b2e">OMBRE</text><text x="280" y="280" font-size="17" fill="#555">Limiter l'échauffement</text><text x="460" y="285" font-size="28" font-weight="700" fill="#52775a">→</text><rect x="485" y="190" width="195" height="170" rx="18" fill="#f8faf8" stroke="#b7c5b8" stroke-width="2"/><text x="505" y="230" font-size="21" font-weight="700" fill="#214b2e">REFROIDIR</text><text x="505" y="280" font-size="17" fill="#555">Retirer la chaleur</text><text x="685" y="285" font-size="28" font-weight="700" fill="#52775a">→</text><rect x="710" y="190" width="195" height="170" rx="18" fill="#f8faf8" stroke="#b7c5b8" stroke-width="2"/><text x="730" y="230" font-size="21" font-weight="700" fill="#214b2e">STOCKER</text><text x="730" y="280" font-size="17" fill="#555">Température adaptée</text><text x="910" y="285" font-size="28" font-weight="700" fill="#52775a">→</text><rect x="935" y="190" width="195" height="170" rx="18" fill="#f8faf8" stroke="#b7c5b8" stroke-width="2"/><text x="955" y="230" font-size="21" font-weight="700" fill="#214b2e">TRANSPORTER</text><text x="955" y="280" font-size="17" fill="#555">Maintenir la qualité</text>
+<rect x="35" y="405" width="1130" height="190" rx="22" fill="#f8faf8" stroke="#d2d8d2" stroke-width="2"/>
+<text x="65" y="450" font-size="25" font-weight="700" fill="#214b2e">À SURVEILLER</text>
+<text x="65" y="495" font-size="18" fill="#444">• Température à la récolte</text>
+<text x="430" y="495" font-size="18" fill="#444">• Délai récolte → refroidissement</text>
+<text x="850" y="495" font-size="18" fill="#444">• Perte de poids</text>
+<text x="65" y="540" font-size="18" fill="#444">• Produits endommagés</text>
+<text x="430" y="540" font-size="18" fill="#444">• Taux de pourriture</text>
+<text x="850" y="540" font-size="18" fill="#444">• Valeur des pertes</text>
+<text x="950" y="640" font-size="14" font-weight="700" fill="#667">Agro-industrie Dooni — Source technique : FAO</text>
+</g></svg>
