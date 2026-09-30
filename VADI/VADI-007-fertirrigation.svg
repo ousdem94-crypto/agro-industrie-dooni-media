@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<rect width="1200" height="1200" fill="#f5f8f1"/>
+<rect x="60" y="55" width="1080" height="150" rx="28" fill="#173b2a"/>
+<text x="600" y="120" text-anchor="middle" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="white">FERTIRRIGATION</text>
+<text x="600" y="165" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" fill="#d9eadf">Eau + nutriments + mesure + correction</text>
+<g font-family="Arial,sans-serif">
+<rect x="90" y="260" width="300" height="220" rx="24" fill="white" stroke="#2e6b4d" stroke-width="4"/>
+<text x="240" y="315" text-anchor="middle" font-size="30" font-weight="700" fill="#173b2a">1. EAU</text>
+<text x="240" y="360" text-anchor="middle" font-size="23" fill="#333">pH • EC • volume</text>
+<text x="240" y="402" text-anchor="middle" font-size="23" fill="#333">qualité • débit</text>
+<text x="240" y="444" text-anchor="middle" font-size="23" fill="#333">distribution</text>
+<rect x="450" y="260" width="300" height="220" rx="24" fill="white" stroke="#2e6b4d" stroke-width="4"/>
+<text x="600" y="315" text-anchor="middle" font-size="30" font-weight="700" fill="#173b2a">2. NUTRIMENTS</text>
+<text x="600" y="360" text-anchor="middle" font-size="23" fill="#333">solubilité</text>
+<text x="600" y="402" text-anchor="middle" font-size="23" fill="#333">compatibilité</text>
+<text x="600" y="444" text-anchor="middle" font-size="23" fill="#333">dose • stade</text>
+<rect x="810" y="260" width="300" height="220" rx="24" fill="white" stroke="#2e6b4d" stroke-width="4"/>
+<text x="960" y="315" text-anchor="middle" font-size="30" font-weight="700" fill="#173b2a">3. RACINES</text>
+<text x="960" y="360" text-anchor="middle" font-size="23" fill="#333">zone racinaire</text>
+<text x="960" y="402" text-anchor="middle" font-size="23" fill="#333">absorption</text>
+<text x="960" y="444" text-anchor="middle" font-size="23" fill="#333">réponse de la plante</text>
+<path d="M390 370 H450 M750 370 H810" stroke="#2e6b4d" stroke-width="8" marker-end="url(#a)"/>
+<rect x="160" y="565" width="880" height="250" rx="28" fill="#dcecdf"/>
+<text x="600" y="625" text-anchor="middle" font-size="32" font-weight="700" fill="#173b2a">PILOTER PAR LA DONNÉE</text>
+<text x="600" y="680" text-anchor="middle" font-size="25" fill="#333">Volume irrigation → EC/pH → drainage → EC/pH drainage</text>
+<text x="600" y="725" text-anchor="middle" font-size="25" fill="#333">Observation de la plante → Analyse → Correction</text>
+<text x="600" y="775" text-anchor="middle" font-size="27" font-weight="700" fill="#173b2a">Observer → Mesurer → Analyser → Corriger</text>
+<rect x="160" y="890" width="880" height="170" rx="28" fill="#173b2a"/>
+<text x="600" y="945" text-anchor="middle" font-size="28" font-weight="700" fill="white">À RETENIR</text>
+<text x="600" y="990" text-anchor="middle" font-size="23" fill="white">Une fertirrigation performante n’est pas seulement</text>
+<text x="600" y="1025" text-anchor="middle" font-size="23" fill="white">de l’engrais dans l’eau : c’est un système piloté.</text>
+</g>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2e6b4d"/></marker></defs>
+</svg>
