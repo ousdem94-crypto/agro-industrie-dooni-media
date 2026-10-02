@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#f6f3e6"/>
+<rect x="28" y="24" width="1024" height="100" rx="22" fill="#16452d"/>
+<text x="55" y="62" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#b9e66b">🌱 VADI #009</text>
+<text x="540" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="35" font-weight="800" fill="white">STRESS THERMIQUE</text>
+<text x="540" y="101" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#ffd34e">QUAND LA CHALEUR COMMENCE À COÛTER DU RENDEMENT</text>
+
+<rect x="35" y="145" width="670" height="405" rx="22" fill="#d8ead4" stroke="#16452d" stroke-width="3"/>
+<circle cx="620" cy="205" r="42" fill="#ffd34e"/><text x="620" y="217" text-anchor="middle" font-size="38">☀</text>
+<text x="60" y="185" font-family="Arial" font-size="22" font-weight="700" fill="#16452d">🌡️ CHALEUR + DURÉE + STADE SENSIBLE</text>
+<path d="M80 330 C190 255 285 330 390 260 S570 275 660 245" fill="none" stroke="#4c8c3f" stroke-width="5"/>
+<path d="M80 330 C190 300 285 355 390 300 S570 335 660 300" fill="none" stroke="#e56b2f" stroke-width="5"/>
+<text x="95" y="235" font-family="Arial" font-size="20" fill="#a63822">Rayonnement solaire intense</text>
+<text x="405" y="225" font-family="Arial" font-size="20" fill="#a63822">🌡️ températures élevées</text>
+<g stroke="#3b7fc4" stroke-width="8"><path d="M150 450V375"/><path d="M280 450V365"/><path d="M410 450V380"/><path d="M540 450V370"/></g>
+<g fill="#4c8c3f"><circle cx="150" cy="430" r="12"/><circle cx="280" cy="420" r="12"/><circle cx="410" cy="435" r="12"/><circle cx="540" cy="425" r="12"/></g>
+<text x="95" y="495" font-family="Arial" font-size="20" font-weight="700" fill="#16452d">🌱 La plante consomme de l’eau, mais la chaleur peut dépasser sa capacité à la gérer.</text>
+<rect x="725" y="145" width="320" height="405" rx="22" fill="white" stroke="#16452d" stroke-width="3"/>
+<text x="885" y="182" text-anchor="middle" font-family="Arial" font-size="22" font-weight="800" fill="#16452d">CULTURES : SENSIBILITÉ</text>
+<rect x="750" y="205" width="270" height="45" rx="12" fill="#e94b4b"/><text x="885" y="235" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="white">Plus sensibles</text>
+<text x="770" y="280" font-family="Arial" font-size="20">🍅 Tomate   🫘 Haricot</text><text x="770" y="315" font-family="Arial" font-size="20">🌽 Maïs   🌾 Blé   🥔 Pomme de terre</text>
+<rect x="750" y="340" width="270" height="45" rx="12" fill="#ef9a28"/><text x="885" y="370" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="white">Sensibilité variable</text>
+<text x="770" y="420" font-family="Arial" font-size="20">🌾 Riz   🥜 Arachide   🫘 Soja</text>
+<rect x="750" y="450" width="270" height="45" rx="12" fill="#55a83f"/><text x="885" y="480" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="white">Plus tolérantes</text>
+<text x="770" y="525" font-family="Arial" font-size="20">🌾 Sorgho   🌾 Mil   🍠 Manioc</text>
+
+<rect x="35" y="575" width="330" height="365" rx="20" fill="#e9f2fb" stroke="#2476b8" stroke-width="3"/>
+<text x="200" y="615" text-anchor="middle" font-family="Arial" font-size="22" font-weight="800" fill="#145c91">📚 CE QUE DIT LA SOURCE</text>
+<text x="60" y="655" font-family="Arial" font-size="17">• FAO/OMM (2026) : chaleur extrême</text><text x="60" y="682" font-family="Arial" font-size="17">  plus fréquente, intense et longue.</text>
+<text x="60" y="720" font-family="Arial" font-size="17">• Les seuils varient selon l’espèce,</text><text x="60" y="747" font-family="Arial" font-size="17">  la variété et le stade.</text>
+<text x="60" y="785" font-family="Arial" font-size="17">• CGIAR : le stress thermique</text><text x="60" y="812" font-family="Arial" font-size="17">  concerne fortement le Sahel.</text>
+<text x="60" y="850" font-family="Arial" font-size="17">• Les nuits chaudes peuvent aussi</text><text x="60" y="877" font-family="Arial" font-size="17">  affecter les cultures.</text>
+
+<rect x="385" y="575" width="330" height="365" rx="20" fill="#edf6e6" stroke="#4d9a3e" stroke-width="3"/>
+<text x="550" y="615" text-anchor="middle" font-family="Arial" font-size="22" font-weight="800" fill="#32742a">🌱 APPLICATION</text>
+<text x="410" y="660" font-family="Arial" font-size="18">🗓️ Adapter le calendrier</text>
+<text x="410" y="700" font-family="Arial" font-size="18">🧬 Choisir des variétés adaptées</text>
+<text x="410" y="740" font-family="Arial" font-size="18">💧 Assurer une bonne disponibilité</text>
+<text x="410" y="780" font-family="Arial" font-size="18">  en eau sans irriguer aveuglément</text>
+<text x="410" y="820" font-family="Arial" font-size="18">🌳 Ombrage / paillage selon le système</text>
+<text x="410" y="860" font-family="Arial" font-size="18">🌬️ Ventilation en serre</text>
+<text x="410" y="900" font-family="Arial" font-size="18">📅 Travaux aux heures moins chaudes</text>
+
+<rect x="735" y="575" width="310" height="365" rx="20" fill="#fff3dc" stroke="#d28725" stroke-width="3"/>
+<text x="890" y="615" text-anchor="middle" font-family="Arial" font-size="22" font-weight="800" fill="#a65e12">📊 DONNÉES À OBSERVER</text>
+<text x="760" y="655" font-family="Arial" font-size="17">🌡️ Température max.</text>
+<text x="760" y="685" font-family="Arial" font-size="17">🌙 Température nocturne</text>
+<text x="760" y="715" font-family="Arial" font-size="17">⏱️ Durée au-dessus d’un seuil</text>
+<text x="760" y="745" font-family="Arial" font-size="17">💧 Humidité / irrigation</text>
+<text x="760" y="775" font-family="Arial" font-size="17">🌱 Stade de la culture</text>
+<text x="760" y="805" font-family="Arial" font-size="17">🌼 Floraison / nouaison</text>
+<text x="760" y="835" font-family="Arial" font-size="17">🍅 Nombre et calibre des fruits</text>
+<text x="760" y="865" font-family="Arial" font-size="17">📈 Rendement kg/ha</text>
+<text x="890" y="910" text-anchor="middle" font-family="Arial" font-size="17" font-weight="700" fill="#a65e12">Température → réponse → rendement</text>
+
+<rect x="35" y="965" width="1010" height="80" rx="18" fill="#16452d"/>
+<text x="540" y="995" text-anchor="middle" font-family="Arial" font-size="19" font-weight="800" fill="#ffd34e">💡 À RETENIR : LA TEMPÉRATURE EST UNE DONNÉE DE PRODUCTION.</text>
+<text x="540" y="1027" text-anchor="middle" font-family="Arial" font-size="18" fill="white">🌡️ Mesurer → 📊 Analyser → 🌱 Adapter → 📈 Mesurer le rendement</text>
+</svg>
