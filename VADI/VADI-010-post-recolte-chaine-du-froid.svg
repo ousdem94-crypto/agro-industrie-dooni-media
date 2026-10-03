@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#f5f0df"/>
+<rect width="1080" height="120" fill="#0b5d3b"/>
+<text x="50" y="58" font-family="Arial" font-size="34" font-weight="700" fill="white">VADI • Vision Agro Daily Intelligence</text>
+<text x="50" y="101" font-family="Arial" font-size="27" font-weight="700" fill="#f7d34a">POST-RÉCOLTE : PRÉSERVER LA QUALITÉ</text>
+<text x="50" y="155" font-family="Arial" font-size="25" font-weight="700" fill="#173b2b">La qualité se joue aussi après le champ</text>
+
+<g font-family="Arial">
+<g transform="translate(35,190)">
+<rect width="195" height="225" rx="18" fill="white" stroke="#0b5d3b" stroke-width="4"/>
+<circle cx="42" cy="42" r="28" fill="#0b5d3b"/><text x="33" y="52" font-size="25" font-weight="700" fill="white">1</text>
+<text x="82" y="37" font-size="22" font-weight="700" fill="#0b5d3b">RÉCOLTER</text>
+<text x="20" y="92" font-size="17" fill="#222">• Bonne maturité</text><text x="20" y="122" font-size="17" fill="#222">• Outils propres</text><text x="20" y="152" font-size="17" fill="#222">• Éviter les blessures</text>
+<text x="20" y="196" font-size="15" font-weight="700" fill="#c35a17">La chaleur commence</text><text x="20" y="216" font-size="15" fill="#c35a17">à agir dès la récolte.</text>
+</g>
+<g transform="translate(250,190)">
+<rect width="195" height="225" rx="18" fill="white" stroke="#e57a22" stroke-width="4"/>
+<circle cx="42" cy="42" r="28" fill="#e57a22"/><text x="33" y="52" font-size="25" font-weight="700" fill="white">2</text>
+<text x="78" y="37" font-size="21" font-weight="700" fill="#c35a17">PROTÉGER</text>
+<text x="20" y="92" font-size="17" fill="#222">• Mettre à l’ombre</text><text x="20" y="122" font-size="17" fill="#222">• Trier les produits</text><text x="20" y="152" font-size="17" fill="#222">• Manipuler doucement</text>
+<text x="20" y="196" font-size="15" font-weight="700" fill="#c35a17">Les chocs accélèrent</text><text x="20" y="216" font-size="15" fill="#c35a17">les pertes.</text>
+</g>
+<g transform="translate(465,190)">
+<rect width="195" height="225" rx="18" fill="white" stroke="#2477c8" stroke-width="4"/>
+<circle cx="42" cy="42" r="28" fill="#2477c8"/><text x="33" y="52" font-size="25" font-weight="700" fill="white">3</text>
+<text x="73" y="37" font-size="21" font-weight="700" fill="#2477c8">REFROIDIR</text>
+<text x="20" y="92" font-size="17" fill="#222">• Évacuer la chaleur</text><text x="20" y="122" font-size="17" fill="#222">• Pré-refroidir si possible</text><text x="20" y="152" font-size="17" fill="#222">• Selon la culture</text>
+<text x="20" y="196" font-size="15" font-weight="700" fill="#2477c8">Plus la température</text><text x="20" y="216" font-size="15" fill="#2477c8">est maîtrisée, mieux c’est.</text>
+</g>
+<g transform="translate(680,190)">
+<rect width="195" height="225" rx="18" fill="white" stroke="#6845a8" stroke-width="4"/>
+<circle cx="42" cy="42" r="28" fill="#6845a8"/><text x="33" y="52" font-size="25" font-weight="700" fill="white">4</text>
+<text x="72" y="37" font-size="20" font-weight="700" fill="#6845a8">STOCKER</text>
+<text x="20" y="92" font-size="17" fill="#222">• Température adaptée</text><text x="20" y="122" font-size="17" fill="#222">• Humidité adaptée</text><text x="20" y="152" font-size="17" fill="#222">• Transport maîtrisé</text>
+<text x="20" y="196" font-size="15" font-weight="700" fill="#6845a8">Attention au froid :</text><text x="20" y="216" font-size="15" fill="#6845a8">certaines cultures y réagissent.</text>
+</g>
+<g transform="translate(895,190)">
+<rect width="150" height="225" rx="18" fill="#0b5d3b"/>
+<text x="20" y="43" font-size="20" font-weight="700" fill="white">5</text><text x="20" y="78" font-size="20" font-weight="700" fill="white">VENDRE</text>
+<text x="20" y="122" font-size="16" fill="white">• Qualité</text><text x="20" y="150" font-size="16" fill="white">• Moins de pertes</text><text x="20" y="178" font-size="16" fill="white">• Plus de valeur</text>
+<text x="20" y="211" font-size="14" font-weight="700" fill="#f7d34a">Champ → marché</text>
+</g>
+</g>
+
+<rect x="35" y="445" width="1010" height="180" rx="20" fill="#173b2b"/>
+<text x="60" y="485" font-family="Arial" font-size="28" font-weight="700" fill="#f7d34a">📊 4 DONNÉES À OBSERVER</text>
+<g font-family="Arial" font-size="20" fill="white">
+<text x="65" y="530">🌡 Température</text><text x="65" y="570">💧 Humidité relative</text><text x="390" y="530">⏱ Temps récolte → refroidissement</text><text x="390" y="570">📉 Taux de pertes (%)</text>
+<text x="730" y="530">📦 Quantité récoltée</text><text x="730" y="570">⚠ Causes des rejets</text>
+</g>
+
+<rect x="35" y="655" width="1010" height="190" rx="20" fill="white" stroke="#0b5d3b" stroke-width="4"/>
+<text x="60" y="695" font-family="Arial" font-size="28" font-weight="700" fill="#0b5d3b">🧠 CE QU’IL FAUT COMPRENDRE</text>
+<text x="60" y="738" font-family="Arial" font-size="20" fill="#222">Les fruits et légumes restent vivants après la récolte :</text>
+<text x="60" y="772" font-family="Arial" font-size="20" fill="#222">ils respirent, perdent de l’eau, mûrissent et peuvent être blessés.</text>
+<text x="60" y="812" font-family="Arial" font-size="20" font-weight="700" fill="#c35a17">« Plus froid » ≠ « toujours mieux » : la température doit être adaptée à la culture.</text>
+
+<rect x="35" y="875" width="1010" height="150" rx="20" fill="#f7d34a"/>
+<text x="60" y="918" font-family="Arial" font-size="29" font-weight="700" fill="#173b2b">💡 À RETENIR</text>
+<text x="60" y="957" font-family="Arial" font-size="21" fill="#173b2b">Produire plus ne suffit pas : il faut préserver ce qui a été produit.</text>
+<text x="60" y="990" font-family="Arial" font-size="21" font-weight="700" fill="#0b5d3b">Récolter → protéger → refroidir → stocker → transporter → vendre.</text>
+</svg>
