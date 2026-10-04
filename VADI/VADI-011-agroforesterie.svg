@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F1E8"/>
+  <rect x="45" y="45" width="990" height="990" rx="34" fill="#FFFFFF" stroke="#315C3A" stroke-width="5"/>
+  <text x="80" y="105" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#315C3A">VADI #011 • AGROFORESTERIE</text>
+  <text x="80" y="150" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#1F2D24">Les arbres au service du sol et des cultures</text>
+  <rect x="80" y="185" width="920" height="430" rx="24" fill="#E7F0DF"/>
+  <rect x="80" y="555" width="920" height="60" fill="#D7E6CB"/>
+  <g stroke="#6E4E2E" stroke-width="12" stroke-linecap="round">
+    <path d="M185 560 L185 370"/><path d="M330 560 L330 330"/><path d="M515 560 L515 355"/><path d="M710 560 L710 315"/><path d="M875 560 L875 360"/>
+  </g>
+  <g fill="#4B7F45">
+    <circle cx="185" cy="340" r="75"/><circle cx="125" cy="375" r="55"/><circle cx="245" cy="380" r="55"/>
+    <circle cx="330" cy="300" r="82"/><circle cx="265" cy="335" r="58"/><circle cx="395" cy="340" r="58"/>
+    <circle cx="515" cy="325" r="78"/><circle cx="455" cy="360" r="55"/><circle cx="580" cy="365" r="55"/>
+    <circle cx="710" cy="285" r="88"/><circle cx="640" cy="330" r="58"/><circle cx="780" cy="335" r="58"/>
+    <circle cx="875" cy="335" r="76"/><circle cx="820" cy="370" r="52"/><circle cx="930" cy="370" r="52"/>
+  </g>
+  <g fill="#9BBE62">
+    <path d="M100 560 Q130 500 160 560 Q190 500 220 560 Q250 500 280 560 Q310 500 340 560 Q370 500 400 560 Q430 500 460 560 Q490 500 520 560 Q550 500 580 560 Q610 500 640 560 Q670 500 700 560 Q730 500 760 560 Q790 500 820 560 Q850 500 880 560 Q910 500 940 560 Q970 500 1000 560 L1000 615 L100 615 Z"/>
+  </g>
+  <g stroke="#7D5B36" stroke-width="5" fill="none">
+    <path d="M185 560 C175 630 145 650 125 690"/><path d="M185 560 C195 635 225 650 250 690"/>
+    <path d="M515 560 C500 640 465 660 440 700"/><path d="M515 560 C530 640 565 660 595 700"/>
+    <path d="M875 560 C860 640 830 665 805 705"/><path d="M875 560 C890 640 920 665 950 705"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#244A2D">
+    <rect x="105" y="205" width="270" height="55" rx="15" fill="#FFFFFF"/><text x="125" y="241">🌱 Fertilité &amp; biomasse</text>
+    <rect x="405" y="205" width="270" height="55" rx="15" fill="#FFFFFF"/><text x="425" y="241">💧 Eau &amp; infiltration</text>
+    <rect x="705" y="205" width="270" height="55" rx="15" fill="#FFFFFF"/><text x="725" y="241">🌤 Microclimat</text>
+    <rect x="185" y="465" width="300" height="55" rx="15" fill="#FFFFFF"/><text x="210" y="501">🛡 Moins d’érosion</text>
+    <rect x="595" y="465" width="300" height="55" rx="15" fill="#FFFFFF"/><text x="620" y="501">🐄 Fourrage &amp; diversité</text>
+  </g>
+  <text x="80" y="670" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#315C3A">LES DONNÉES À OBSERVER</text>
+  <g font-family="Arial, sans-serif" font-size="23" fill="#26352B">
+    <text x="90" y="715">• arbres/ha • survie • croissance • biomasse</text>
+    <text x="90" y="752">• humidité du sol • matière organique/carbone • rendement</text>
+    <text x="90" y="789">• fourrage • coûts de gestion • revenu/ha</text>
+  </g>
+  <rect x="80" y="825" width="920" height="145" rx="22" fill="#315C3A"/>
+  <text x="105" y="865" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">À RETENIR</text>
+  <text x="105" y="905" font-family="Arial, sans-serif" font-size="23" fill="#FFFFFF">Le bon arbre, au bon endroit, avec la bonne densité</text>
+  <text x="105" y="940" font-family="Arial, sans-serif" font-size="21" fill="#EAF3E6">Les effets dépendent des espèces, du climat et de la gestion.</text>
+</svg>
