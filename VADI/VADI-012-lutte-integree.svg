@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#f7f3e8"/>
+<rect x="55" y="55" width="970" height="970" rx="42" fill="#ffffff" stroke="#244a2f" stroke-width="5"/>
+<text x="90" y="125" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#244a2f">VADI #012</text>
+<text x="90" y="185" font-family="Arial,sans-serif" font-size="54" font-weight="700" fill="#173b27">LUTTE INTÉGRÉE</text>
+<text x="90" y="230" font-family="Arial,sans-serif" font-size="27" fill="#555">Observer avant de traiter</text>
+<g transform="translate(90,285)">
+<circle cx="100" cy="100" r="82" fill="#e9f2e6"/><text x="100" y="92" text-anchor="middle" font-family="Arial" font-size="42">🔎</text><text x="100" y="145" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700" fill="#244a2f">OBSERVER</text>
+<circle cx="330" cy="100" r="82" fill="#f2ead5"/><text x="330" y="92" text-anchor="middle" font-family="Arial" font-size="42">🐛</text><text x="330" y="145" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700" fill="#244a2f">IDENTIFIER</text>
+<circle cx="560" cy="100" r="82" fill="#e9f2e6"/><text x="560" y="92" text-anchor="middle" font-family="Arial" font-size="42">📊</text><text x="560" y="145" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700" fill="#244a2f">COMPTER</text>
+<circle cx="790" cy="100" r="82" fill="#f2ead5"/><text x="790" y="92" text-anchor="middle" font-family="Arial" font-size="42">⚖️</text><text x="790" y="145" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700" fill="#244a2f">DÉCIDER</text>
+</g>
+<rect x="90" y="520" width="900" height="185" rx="25" fill="#edf5eb"/>
+<text x="540" y="565" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#173b27">LA QUESTION N’EST PAS :</text>
+<text x="540" y="610" text-anchor="middle" font-family="Arial" font-size="30" fill="#555">« Quel produit dois-je utiliser ? »</text>
+<text x="540" y="660" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#173b27">MAIS :</text>
+<text x="540" y="700" text-anchor="middle" font-family="Arial" font-size="30" fill="#244a2f">« Quelle décision est la plus efficace et justifiée ? »</text>
+<text x="90" y="780" font-family="Arial" font-size="27" font-weight="700" fill="#244a2f">📊 Données à suivre</text>
+<text x="90" y="825" font-family="Arial" font-size="24" fill="#555">Ravageurs • auxiliaires • plants infestés • dégâts • évolution • coût • efficacité</text>
+<text x="90" y="900" font-family="Arial" font-size="31" font-weight="700" fill="#173b27">💡 À RETENIR</text>
+<text x="90" y="945" font-family="Arial" font-size="25" fill="#555">Observer → Mesurer → Décider → Intervenir si nécessaire → Vérifier</text>
+</svg>
