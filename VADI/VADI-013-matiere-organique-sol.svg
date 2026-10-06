@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#f7f2e8"/>
+<text x="70" y="85" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#315c3a">VADI #013</text>
+<text x="70" y="145" font-family="Arial,sans-serif" font-size="54" font-weight="800" fill="#183b27">MATIÈRE ORGANIQUE</text>
+<text x="70" y="205" font-family="Arial,sans-serif" font-size="32" font-weight="700" fill="#183b27">DU SOL</text>
+<text x="70" y="255" font-family="Arial,sans-serif" font-size="25" fill="#4b4b4b">Nourrir la plante, c’est aussi entretenir le sol.</text>
+<rect x="70" y="310" width="940" height="360" rx="28" fill="#d9c39a"/>
+<rect x="70" y="310" width="940" height="110" rx="28" fill="#7ea35a"/>
+<text x="110" y="380" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="white">SURFACE DU SOL</text>
+<text x="120" y="465" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#3e3022">🍂 Résidus  •  🌿 Couverture  •  🐄 Fumier / compost</text>
+<text x="120" y="520" font-family="Arial,sans-serif" font-size="29" fill="#3e3022">→ décomposition → recyclage des nutriments</text>
+<line x1="300" y1="560" x2="300" y2="650" stroke="#4c6b3c" stroke-width="12"/>
+<line x1="540" y1="560" x2="540" y2="650" stroke="#4c6b3c" stroke-width="12"/>
+<line x1="780" y1="560" x2="780" y2="650" stroke="#4c6b3c" stroke-width="12"/>
+<text x="105" y="635" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#3e3022">STRUCTURE</text>
+<text x="435" y="635" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#3e3022">EAU</text>
+<text x="700" y="635" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#3e3022">NUTRIMENTS</text>
+<rect x="70" y="715" width="450" height="250" rx="24" fill="white" stroke="#315c3a" stroke-width="4"/>
+<text x="105" y="765" font-family="Arial,sans-serif" font-size="31" font-weight="800" fill="#183b27">📊 DONNÉES À SUIVRE</text>
+<text x="105" y="815" font-family="Arial,sans-serif" font-size="25" fill="#333">Matière organique • carbone</text>
+<text x="105" y="855" font-family="Arial,sans-serif" font-size="25" fill="#333">Humidité • infiltration • pH</text>
+<text x="105" y="895" font-family="Arial,sans-serif" font-size="25" fill="#333">Amendements • rendement</text>
+<rect x="555" y="715" width="455" height="250" rx="24" fill="#315c3a"/>
+<text x="595" y="770" font-family="Arial,sans-serif" font-size="31" font-weight="800" fill="white">💡 À RETENIR</text>
+<text x="595" y="820" font-family="Arial,sans-serif" font-size="26" fill="white">Un sol productif est</text>
+<text x="595" y="858" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="white">un écosystème vivant.</text>
+<text x="595" y="905" font-family="Arial,sans-serif" font-size="23" fill="white">La matière organique compte,</text>
+<text x="595" y="938" font-family="Arial,sans-serif" font-size="23" fill="white">mais sa gestion doit être raisonnée.</text>
+</svg>
