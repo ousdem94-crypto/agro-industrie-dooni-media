@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3f7e9"/><stop offset="1" stop-color="#e0efdb"/></linearGradient></defs>
+<rect width="1080" height="1350" fill="url(#bg)"/>
+<rect x="52" y="48" width="976" height="1254" rx="34" fill="#fffdf7" stroke="#315c3b" stroke-width="4"/>
+<rect x="52" y="48" width="976" height="170" rx="34" fill="#214f36"/>
+<rect x="52" y="178" width="976" height="40" fill="#214f36"/>
+<text x="92" y="102" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#d7e9a4">AGRO-INDUSTRIE DOONI • VADI #016</text>
+<text x="92" y="157" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#ffffff">POST-RÉCOLTE</text>
+<text x="90" y="286" font-family="Arial,sans-serif" font-size="45" font-weight="700" fill="#214f36">LE SAC HERMÉTIQUE</text>
+<text x="90" y="340" font-family="Arial,sans-serif" font-size="45" font-weight="700" fill="#214f36">PROTÈGE LE GRAIN,</text>
+<text x="90" y="394" font-family="Arial,sans-serif" font-size="45" font-weight="700" fill="#a04c20">MAIS NE LE SÈCHE PAS.</text>
+<g transform="translate(90 435)">
+<rect width="900" height="275" rx="22" fill="#f2e5c7" stroke="#b88c4a" stroke-width="3"/>
+<path d="M325 35 L575 35 L550 245 L350 245 Z" fill="#d7c5a0" stroke="#8b6c3e" stroke-width="5"/>
+<path d="M345 75 Q450 55 555 75 L540 222 Q450 238 360 222 Z" fill="#e8d9ad" stroke="#8b6c3e" stroke-width="3"/>
+<g fill="#c78c28" stroke="#95621c" stroke-width="2"><ellipse cx="390" cy="112" rx="12" ry="6"/><ellipse cx="422" cy="130" rx="12" ry="6"/><ellipse cx="466" cy="110" rx="12" ry="6"/><ellipse cx="500" cy="139" rx="12" ry="6"/><ellipse cx="380" cy="158" rx="12" ry="6"/><ellipse cx="437" cy="172" rx="12" ry="6"/><ellipse cx="483" cy="185" rx="12" ry="6"/><ellipse cx="408" cy="202" rx="12" ry="6"/><ellipse cx="517" cy="207" rx="12" ry="6"/><ellipse cx="457" cy="145" rx="12" ry="6"/></g>
+<path d="M325 35 Q450 58 575 35" fill="none" stroke="#315c3b" stroke-width="9"/>
+<text x="40" y="95" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#214f36">GRAIN</text><text x="40" y="130" font-family="Arial,sans-serif" font-size="22" fill="#214f36">suffisamment</text><text x="40" y="160" font-family="Arial,sans-serif" font-size="22" fill="#214f36">sec avant</text><text x="40" y="190" font-family="Arial,sans-serif" font-size="22" fill="#214f36">fermeture</text>
+<text x="645" y="95" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#214f36">SAC</text><text x="645" y="130" font-family="Arial,sans-serif" font-size="22" fill="#214f36">intact et</text><text x="645" y="160" font-family="Arial,sans-serif" font-size="22" fill="#214f36">bien fermé</text><text x="645" y="205" font-family="Arial,sans-serif" font-size="22" fill="#214f36">à l’abri de l’eau</text>
+</g>
+<g font-family="Arial,sans-serif">
+<rect x="90" y="742" width="900" height="118" rx="18" fill="#e4efdc"/><circle cx="145" cy="801" r="29" fill="#315c3b"/><text x="145" y="811" font-size="30" font-weight="700" text-anchor="middle" fill="#fff">1</text><text x="198" y="790" font-size="31" font-weight="700" fill="#214f36">SÉCHER</text><text x="198" y="828" font-size="23" fill="#344b38">Adapter le séchage à la céréale et aux conditions de stockage.</text>
+<rect x="90" y="878" width="900" height="118" rx="18" fill="#e4efdc"/><circle cx="145" cy="937" r="29" fill="#315c3b"/><text x="145" y="947" font-size="30" font-weight="700" text-anchor="middle" fill="#fff">2</text><text x="198" y="926" font-size="31" font-weight="700" fill="#214f36">FERMER</text><text x="198" y="964" font-size="23" fill="#344b38">Utiliser un sac hermétique intact, selon les consignes du fabricant.</text>
+<rect x="90" y="1014" width="900" height="118" rx="18" fill="#e4efdc"/><circle cx="145" cy="1073" r="29" fill="#315c3b"/><text x="145" y="1083" font-size="30" font-weight="700" text-anchor="middle" fill="#fff">3</text><text x="198" y="1062" font-size="31" font-weight="700" fill="#214f36">SURVEILLER</text><text x="198" y="1100" font-size="23" fill="#344b38">Noter dates, humidité mesurée, état des sacs et pertes observées.</text>
+</g>
+<rect x="90" y="1160" width="900" height="94" rx="18" fill="#214f36"/>
+<text x="540" y="1199" font-family="Arial,sans-serif" font-size="26" font-weight="700" text-anchor="middle" fill="#ffffff">DES GRAINS SUFFISAMMENT SECS</text><text x="540" y="1234" font-family="Arial,sans-serif" font-size="25" font-weight="700" text-anchor="middle" fill="#d7e9a4">+ UN SAC INTACT + UN SUIVI RÉGULIER</text>
+<text x="540" y="1280" font-family="Arial,sans-serif" font-size="17" text-anchor="middle" fill="#4d654f">Références : FAO — séchage et conservation des céréales ; FAO AGRIS — stockage hermétique.</text>
+</svg>
