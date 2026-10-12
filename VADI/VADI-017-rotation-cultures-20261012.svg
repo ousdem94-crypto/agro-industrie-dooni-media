@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6f0dc"/><stop offset="1" stop-color="#e3efcf"/></linearGradient></defs>
+<rect width="1080" height="1080" fill="url(#bg)"/>
+<rect x="42" y="42" width="996" height="996" rx="34" fill="#fffdf5" stroke="#2d5a36" stroke-width="5"/>
+<text x="540" y="108" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#8a5a25" text-anchor="middle">AGRO-INDUSTRIE DOONI • VADI #017</text>
+<text x="540" y="170" font-family="Arial,sans-serif" font-size="47" font-weight="700" fill="#214a2c" text-anchor="middle">ROTATION DES CULTURES</text>
+<text x="540" y="220" font-family="Arial,sans-serif" font-size="28" fill="#344b32" text-anchor="middle">Alterner céréales et légumineuses</text>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<rect x="95" y="285" width="200" height="300" rx="20" fill="#f6e8bd" stroke="#b68b3e" stroke-width="3"/>
+<text x="195" y="330" font-size="24" font-weight="700" fill="#64451b">ANNÉE 1</text>
+<path d="M195 480 Q190 420 190 370 M190 408 Q155 390 153 365 M190 425 Q225 405 230 380 M190 450 Q160 430 158 410" fill="none" stroke="#567d37" stroke-width="8" stroke-linecap="round"/>
+<path d="M190 370 l-13 20 15 -5 14 5z M153 365 l18 12 -2 -15 -12 -9z M230 380 l-17 12 2 -14 13 -8z" fill="#d5a637"/>
+<text x="195" y="535" font-size="30" font-weight="700" fill="#64451b">Mil</text>
+<rect x="330" y="285" width="200" height="300" rx="20" fill="#f6e8bd" stroke="#b68b3e" stroke-width="3"/>
+<text x="430" y="330" font-size="24" font-weight="700" fill="#64451b">ANNÉE 2</text>
+<path d="M430 480 Q425 420 430 365 M430 405 Q395 390 390 370 M430 430 Q465 410 470 385" fill="none" stroke="#567d37" stroke-width="8" stroke-linecap="round"/>
+<path d="M430 365 q-25 0 -24 20 q23 6 24 -20 M430 365 q25 0 24 20 q-23 6 -24 -20" fill="#d5a637"/>
+<text x="430" y="535" font-size="30" font-weight="700" fill="#64451b">Sorgho</text>
+<rect x="565" y="285" width="200" height="300" rx="20" fill="#e4f0d8" stroke="#5d8b47" stroke-width="3"/>
+<text x="665" y="330" font-size="24" font-weight="700" fill="#214a2c">ANNÉE 3</text>
+<path d="M665 480 L665 390 M665 420 Q630 390 620 420 Q635 445 665 420 M665 445 Q700 410 715 440 Q700 465 665 445" fill="#70a64c" stroke="#4f7b39" stroke-width="4"/>
+<path d="M650 480 q15 -22 30 0 q-15 25 -30 0" fill="#9a6a39"/>
+<text x="665" y="535" font-size="30" font-weight="700" fill="#214a2c">Niébé</text>
+<rect x="800" y="285" width="185" height="300" rx="20" fill="#e4f0d8" stroke="#5d8b47" stroke-width="3"/>
+<text x="892" y="330" font-size="24" font-weight="700" fill="#214a2c">ANNÉE 4</text>
+<path d="M892 480 L892 395 M892 420 Q860 395 850 420 Q865 445 892 420 M892 445 Q920 415 935 442 Q918 463 892 445" fill="#70a64c" stroke="#4f7b39" stroke-width="4"/>
+<path d="M875 480 q17 -24 34 0 q-17 25 -34 0" fill="#c58b4b"/>
+<text x="892" y="535" font-size="27" font-weight="700" fill="#214a2c">Arachide</text>
+</g>
+<path d="M298 435 l24 0 -8 -9 M322 435 l-8 9 M533 435 l24 0 -8 -9 M557 435 l-8 9 M768 435 l24 0 -8 -9 M792 435 l-8 9" stroke="#2d5a36" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="95" y="640" width="890" height="135" rx="22" fill="#214a2c"/>
+<text x="540" y="690" font-family="Arial,sans-serif" font-size="31" font-weight="700" fill="#fffdf5" text-anchor="middle">POURQUOI ALTERner ?</text>
+<text x="540" y="735" font-family="Arial,sans-serif" font-size="25" fill="#fffdf5" text-anchor="middle">Diversifier les cultures • mieux gérer les adventices</text>
+<text x="540" y="770" font-family="Arial,sans-serif" font-size="22" fill="#fffdf5" text-anchor="middle">Les effets dépendent du sol, des pluies et des pratiques.</text>
+<text x="540" y="850" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#214a2c" text-anchor="middle">À ADAPTER AUX CONDITIONS DE CHAQUE EXPLOITATION</text>
+<text x="540" y="905" font-family="Arial,sans-serif" font-size="20" fill="#455d3b" text-anchor="middle">Références : ICRISAT (essais de longue durée au Niger) • JIRCAS</text>
+<text x="540" y="965" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#8a5a25" text-anchor="middle">PVA35 | Agriculture • Données • Pratiques durables</text>
+</svg>
