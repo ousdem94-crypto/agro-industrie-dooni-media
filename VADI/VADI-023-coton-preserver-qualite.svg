@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f2f8ed"/><stop offset="1" stop-color="#fff3d1"/></linearGradient></defs>
+<rect width="1080" height="1080" fill="url(#bg)"/><rect width="1080" height="14" fill="#155b3b"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="54" y="62" font-size="25" font-weight="700" fill="#155b3b">AGRO-INDUSTRIE DOONI  •  VADI</text>
+<rect x="54" y="88" width="150" height="52" rx="12" fill="#ffca28"/><text x="129" y="123" text-anchor="middle" font-size="30" font-weight="700" fill="#173f2d">VADI #023</text>
+<text x="54" y="201" font-size="47" font-weight="700" fill="#123d2b">Coton : préserver la qualité</text>
+<text x="54" y="256" font-size="43" font-weight="700" fill="#18804b">dès la récolte et le stockage</text>
+<text x="56" y="304" font-size="23" fill="#34443a">La qualité se protège au champ, pendant le transport</text><text x="56" y="336" font-size="23" fill="#34443a">et jusqu’à la commercialisation.</text>
+<rect x="48" y="375" width="984" height="64" rx="14" fill="#155b3b"/><text x="540" y="416" font-size="29" font-weight="700" fill="#fff" text-anchor="middle">4 GESTES SIMPLES POUR LIMITER LES PERTES</text>
+<g>
+<rect x="48" y="460" width="478" height="170" rx="18" fill="#fff" stroke="#cfe4d1" stroke-width="2"/><circle cx="105" cy="510" r="31" fill="#18804b"/><text x="105" y="520" font-size="28" font-weight="700" fill="#fff" text-anchor="middle">1</text><text x="151" y="504" font-size="26" font-weight="700" fill="#123d2b">Récolter proprement</text><text x="151" y="543" font-size="21" fill="#34443a">Éviter la terre, les feuilles</text><text x="151" y="572" font-size="21" fill="#34443a">et les corps étrangers.</text>
+<rect x="554" y="460" width="478" height="170" rx="18" fill="#fff" stroke="#f1dc9b" stroke-width="2"/><circle cx="611" cy="510" r="31" fill="#e6a400"/><text x="611" y="520" font-size="28" font-weight="700" fill="#fff" text-anchor="middle">2</text><text x="657" y="504" font-size="26" font-weight="700" fill="#123d2b">Protéger de l’humidité</text><text x="657" y="543" font-size="21" fill="#34443a">Garder le coton récolté</text><text x="657" y="572" font-size="21" fill="#34443a">au sec, à l’abri de la pluie.</text>
+<rect x="48" y="650" width="478" height="170" rx="18" fill="#fff" stroke="#c9dff1" stroke-width="2"/><circle cx="105" cy="700" r="31" fill="#1676b8"/><text x="105" y="710" font-size="28" font-weight="700" fill="#fff" text-anchor="middle">3</text><text x="151" y="694" font-size="26" font-weight="700" fill="#123d2b">Stocker avec soin</text><text x="151" y="733" font-size="21" fill="#34443a">Utiliser un endroit propre,</text><text x="151" y="762" font-size="21" fill="#34443a">sec et bien ventilé.</text>
+<rect x="554" y="650" width="478" height="170" rx="18" fill="#fff" stroke="#cfe4d1" stroke-width="2"/><circle cx="611" cy="700" r="31" fill="#67a83e"/><text x="611" y="710" font-size="28" font-weight="700" fill="#fff" text-anchor="middle">4</text><text x="657" y="694" font-size="26" font-weight="700" fill="#123d2b">Transporter à l’abri</text><text x="657" y="733" font-size="21" fill="#34443a">Éviter les sacs mouillés</text><text x="657" y="762" font-size="21" fill="#34443a">et la contamination.</text>
+</g>
+<rect x="48" y="850" width="984" height="128" rx="18" fill="#155b3b"/><text x="78" y="895" font-size="25" font-weight="700" fill="#ffd13a">POURQUOI C’EST IMPORTANT ?</text><text x="78" y="932" font-size="22" fill="#fff">Une fibre mieux préservée = une meilleure qualité et moins de pertes évitables.</text>
+<text x="54" y="1027" font-size="22" font-weight="700" fill="#123d2b">Observer • Protéger • Valoriser  |  Agro-industrie DOONI</text>
+</g></svg>
