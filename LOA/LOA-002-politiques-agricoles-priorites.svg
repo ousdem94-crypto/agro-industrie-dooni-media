@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5fbf4"/><stop offset="1" stop-color="#fff5d7"/></linearGradient></defs>
+<rect width="1080" height="1080" fill="url(#bg)"/>
+<rect width="1080" height="14" fill="#0b5738"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="54" y="62" font-size="25" font-weight="700" fill="#0b5738">AGRO-INDUSTRIE DOONI  •  AGRICULTURE • INNOVATION • VALEUR</text>
+<rect x="54" y="92" width="132" height="56" rx="12" fill="#ffc928"/><text x="120" y="130" font-size="34" font-weight="700" text-anchor="middle" fill="#103e2b">LOA</text>
+<text x="54" y="204" font-size="48" font-weight="700" fill="#123d2b">Les politiques agricoles au Mali :</text>
+<text x="54" y="258" font-size="43" font-weight="700" fill="#16804a">quatre priorités pour agir durablement</text>
+<text x="56" y="302" font-size="23" fill="#273a30">Des orientations efficaces doivent se traduire par des résultats concrets</text>
+<text x="56" y="333" font-size="23" fill="#273a30">pour les producteurs, les filières et les territoires ruraux.</text>
+<rect x="45" y="370" width="990" height="62" rx="14" fill="#0b5738"/><text x="540" y="410" font-size="29" font-weight="700" fill="#fff" text-anchor="middle">4 PRIORITÉS POUR LE DÉVELOPPEMENT AGRICOLE</text>
+<g>
+<rect x="48" y="455" width="478" height="190" rx="18" fill="#fff" stroke="#cfe4d1" stroke-width="2"/>
+<circle cx="104" cy="509" r="31" fill="#16804a"/><text x="104" y="520" font-size="29" font-weight="700" fill="#fff" text-anchor="middle">01</text>
+<text x="151" y="500" font-size="25" font-weight="700" fill="#123d2b">Production et productivité</text>
+<text x="151" y="538" font-size="20" fill="#273a30">Intrants adaptés, équipements,</text><text x="151" y="565" font-size="20" fill="#273a30">innovation et conseil agricole.</text>
+<text x="78" y="615" font-size="21" fill="#16804a" font-weight="700">Produire mieux, durablement</text>
+<rect x="554" y="455" width="478" height="190" rx="18" fill="#fff" stroke="#f1dc9b" stroke-width="2"/>
+<circle cx="610" cy="509" r="31" fill="#e99b00"/><text x="610" y="520" font-size="29" font-weight="700" fill="#fff" text-anchor="middle">02</text>
+<text x="657" y="500" font-size="25" font-weight="700" fill="#123d2b">Accès aux marchés</text>
+<text x="657" y="538" font-size="20" fill="#273a30">Stockage, transformation locale,</text><text x="657" y="565" font-size="20" fill="#273a30">infrastructures et filières organisées.</text>
+<text x="584" y="615" font-size="21" fill="#b87900" font-weight="700">Mieux vendre et valoriser</text>
+<rect x="48" y="665" width="478" height="190" rx="18" fill="#fff" stroke="#c9dff1" stroke-width="2"/>
+<circle cx="104" cy="719" r="31" fill="#1676b8"/><text x="104" y="730" font-size="29" font-weight="700" fill="#fff" text-anchor="middle">03</text>
+<text x="151" y="710" font-size="25" font-weight="700" fill="#123d2b">Inclusion des acteurs</text>
+<text x="151" y="748" font-size="20" fill="#273a30">Petits producteurs, femmes et jeunes :</text><text x="151" y="775" font-size="20" fill="#273a30">accès aux services et opportunités.</text>
+<text x="78" y="825" font-size="21" fill="#1676b8" font-weight="700">Des opportunités plus équitables</text>
+<rect x="554" y="665" width="478" height="190" rx="18" fill="#fff" stroke="#cfe4d1" stroke-width="2"/>
+<circle cx="610" cy="719" r="31" fill="#67a83e"/><text x="610" y="730" font-size="29" font-weight="700" fill="#fff" text-anchor="middle">04</text>
+<text x="657" y="710" font-size="25" font-weight="700" fill="#123d2b">Durabilité et résilience</text>
+<text x="657" y="748" font-size="20" fill="#273a30">Adapter les systèmes de production</text><text x="657" y="775" font-size="20" fill="#273a30">et préserver l’eau et les sols.</text>
+<text x="584" y="825" font-size="21" fill="#43852a" font-weight="700">Mieux résister aux chocs</text>
+</g>
+<rect x="48" y="880" width="984" height="118" rx="18" fill="#0b5738"/>
+<text x="78" y="923" font-size="25" font-weight="700" fill="#ffd13a">COMMENT MESURER LES PROGRÈS ?</text>
+<text x="78" y="958" font-size="21" fill="#fff">Rendements • revenus • pertes après récolte • emplois ruraux • résilience climatique</text>
+<text x="78" y="1034" font-size="22" font-weight="700" fill="#123d2b">Agir ensemble pour une agriculture productive, inclusive et durable au Mali.</text>
+</g></svg>
