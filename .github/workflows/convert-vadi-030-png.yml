@@ -1,0 +1,28 @@
+name: Convert VADI #030 SVG to PNG
+on:
+  push:
+    paths:
+      - 'VADI/VADI-030-realites-locales.svg'
+    branches:
+      - main
+permissions:
+  contents: write
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Convert infographic to PNG
+        run: |
+          python -m pip install cairosvg
+          python - <<'PY'
+          import cairosvg
+          cairosvg.svg2png(url="VADI/VADI-030-realites-locales.svg", write_to="VADI/VADI-030-realites-locales.png", output_width=1080, output_height=1350)
+          PY
+      - name: Commit PNG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add VADI/VADI-030-realites-locales.png
+          git commit -m "Add PNG version of VADI 030 visual" || exit 0
+          git push
